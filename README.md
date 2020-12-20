@@ -7,5 +7,4 @@
 - Linux
 - Git
 - Composer
-
-Googling skills :)
+- Googling skills :)
