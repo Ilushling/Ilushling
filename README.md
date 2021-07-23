@@ -1,7 +1,7 @@
-- HTML/CSS Adaptive (example: http://watchdat.000webhostapp.com/)
-- JavaScript (Ext JS)
+- HTML/CSS
+- JavaScript (Vanilla JS, Vue.js, Ext JS)
 - Node.js, Express
-- REST, COMET, WebSockets
+- REST
 - PHP
 - MySQL (Join, Subquery, Aggregate functions, Grouping, Transations, Index, Optimizing query)
 - Linux
